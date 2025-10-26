@@ -1,4 +1,4 @@
-![logo](https://github.com/chintu594/chintu594/blob/main/Chintu%20Mewara-10.png)
+![logo](https://github.com/chintu594/chintu594/blob/main/63214.jpg)
 <h1 align="center">Hi 👋, I'm Chintu Mewara</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
