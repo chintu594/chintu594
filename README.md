@@ -1,4 +1,4 @@
-![logo](<img width="4000" height="2250" alt="Chintu Mewara-10" src="https://github.com/user-attachments/assets/a4645d6b-63d2-417c-9393-1b0e21c2ff7f" />)
+![logo](<img width="711" height="400" alt="Chintu Mewara-10" src="https://github.com/user-attachments/assets/2dc92f93-6388-45ae-99bf-8524efec9ec3" />)
 <h1 align="center">Hi 👋, I'm Chintu Mewara</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
